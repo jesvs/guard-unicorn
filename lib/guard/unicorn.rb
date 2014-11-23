@@ -1,5 +1,3 @@
-require 'guard'
-
 module Guard
   class Unicorn < Plugin
 
